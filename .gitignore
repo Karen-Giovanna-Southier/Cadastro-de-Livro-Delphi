@@ -1,0 +1,18 @@
+# Ignorar arquivos temporários do Delphi
+*.dproj.local
+*.identcache
+*.tvsconfig
+*.stat
+
+# Pastas de backup automáticas
+_recovery/
+_history/
+
+# Pastas de build do Delphi
+Win32/
+Win64/
+
+# Arquivos de backup
+*.~pas
+*.~dfm
+*.bak
